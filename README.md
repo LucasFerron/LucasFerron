@@ -114,7 +114,7 @@ Me chamo Lucas Ferron da Silva, tenho 19 anos e sou natural de Santa Catarina. C
 <img
     align="left"
     alt="Github Stats"
-    height="200"
+    height="250"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFerron&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
 </p>
