@@ -2,11 +2,10 @@
 
 **`FullStack Developer`**
 
-Me chamo Lucas Ferron da Silva, tenho 19 anos e sou natural de Santa Catarina. Concluí o ensino médio no IFSC, com o curso Técnico em Informática. Atualmente, estou cursando Ciência da Computação na UFFS. Sou apaixonado por tecnologia e automação 
-
+My name is Lucas Ferron da Silva, I'm 19 years old, and I am from Santa Catarina, Brazil. I graduated from high school at IFSC, with a Technical Course in Information Technology. Currently, I am pursuing a degree in Computer Science at UFFS. I am passionate about technology and automation, and software development.
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -102,7 +101,7 @@ Me chamo Lucas Ferron da Silva, tenho 19 anos e sou natural de Santa Catarina. C
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
 <img
