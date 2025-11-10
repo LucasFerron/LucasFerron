@@ -2,12 +2,13 @@
 
 **`FullStack Developer`**
 
-<span style="font-size: 12px;">
+<h3>
     My name is Lucas Ferron da Silva, I'm 19 years old, and I am from Santa Catarina, Brazil. <br/>
     I graduated from high school at IFSC, with a Technical Course in Information Technology. <br/>
     Currently, I am pursuing a degree in Computer Science at UFFS. I am passionate about technology and automation, and software development.
-<span/>
-
+<h3/>
+    
+---
 
 ### 🤖 Languages and Technologies
 
